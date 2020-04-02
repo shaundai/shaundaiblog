@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-personal-starter-blog",
+  "name": "shaundai-blog",
   "private": true,
-  "description": "A personal blog starter for a blog powered by Netlify CMS, based on the default blog starter",
-  "version": "1.0.0",
-  "author": "Thomas Wang <thomas@wang.sh>",
+  "description": "Professional blog for Shaundai Person",
+  "author": "Shaundai Person",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
