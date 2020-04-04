@@ -44,4 +44,5 @@ Or vice versa.  While you’re at it, learn a little bit about design, too - esp
 Coming from the software sales world, I see how often devs get stuck in their own bubble and forget to get a wholistic understanding of their product from the customer side, sales side, or even the design side.  You can make yourself stand out by understanding at least a little about what is going on over the fence and how the work you do will make an impact, or what you could do to make their jobs/lives easier.  Take a course in something new or talk with someone else who is in the role.
 
 <strong>Several lines readable of code > one line of code that only you understand</strong>
+
 This goes along with the last piece of advice.  Even if you don’t expect to be working on a team, remember that one day, you’ll need to read your own code again after not-having looked at it for several months.  Do your future self/future colleagues a favor and name your functions something like <em>formatPhoneNumber</em> instead of <em>fixFon</em>.
