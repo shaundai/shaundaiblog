@@ -26,7 +26,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={location.pathname === blogPath ? `/` : `/`}
+            to={location.pathname === blogPath ? `/blog/` : `/`}
           >
             {title}
           </Link>
@@ -68,6 +68,7 @@ class Layout extends React.Component {
         </div>
         <Footer>
           © {new Date().getFullYear()} Shaundai Person
+          <Link to="www.twitter.com/shaundai">twitter</Link>
         </Footer>
       </Wrapper>
     )
