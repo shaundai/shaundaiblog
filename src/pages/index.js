@@ -47,7 +47,7 @@ class IndexPage extends React.Component {
             )
           })}
         </div>
-        <a href={`https://www.shaundai.com/`}>
+        <a href="https://www.shaundai.com/">
           <Button marginTop="85px">Main Page</Button>
         </a>
       </Layout>
