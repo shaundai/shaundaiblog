@@ -67,7 +67,7 @@ class Layout extends React.Component {
           <main>{children}</main>
         </div>
         <Footer>
-        <a href="https://shaundai.com/">home</a> |
+        <a href="https://shaundai.com/">home</a> | 
         <a href="https://twitter.com/shaundai">twitter</a> | 
         <a href="mailto:shaundai@me.com">email</a>
         <br></br>
