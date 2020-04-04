@@ -68,7 +68,8 @@ class Layout extends React.Component {
         </div>
         <Footer>
           © {new Date().getFullYear()} Shaundai Person
-          <Link to="www.twitter.com/shaundai">twitter</Link>
+          <br></br>
+          <Link to="www.twitter.com/shaundai">twitter</Link> | 
         </Footer>
       </Wrapper>
     )

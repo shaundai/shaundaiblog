@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `Shaundai's Blog`,
     author: `Shaundai`,
-    description: `A personal blog with styled components, dark mode, and Netlify CMS.`,
+    description: `Personal blog by Shaundai Person.`,
     siteUrl: `https://blog.shaundai.com/`,
     social: {
       twitter: `shaundai`,
