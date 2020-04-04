@@ -28,15 +28,17 @@ During your coffee meeting, one thing that you can ask is how else to get connec
 If you aren’t working for a company with a lot of developers, you can meet other developers in the area by attending meetups in your area or by volunteering for local groups focused on tech.  If you live in a really remote area where there aren’t many meetups in the field of tech you want to get into, build a network remotely using Twitter and Dev.to.  Post and use hashtags, and reply to posts from others.
 
 <strong>(3) Toot your own horn!</strong>
+
 It’s YOUR JOB to make sure you’re putting your work in front of who it needs to get in front of.  Talk about what you’re working on and show off your progress.  It’s a tough shift to make for people who - like me - were taught that tooting your own horn makes you obnoxious.  Here are some ways to put yourself out there without feeling bad about it:
 
-* Solve a problem/complete a project, then write a blog post about how you did it.  Share the blog post with an engineering manager and ask for feedback
-* Commit to writing social media posts 3x week about the progress on your current project
-* While you are doing the networking you committed to in #1, talk about what you are working on and your career plans.  Don’t forget to reciprocate by asking the person sitting across from you about the exciting projects they are a part of as well.
-* Take credit for the work you’ve done
-* Accept compliments by simply saying “thank you”
+    * Solve a problem/complete a project, then write a blog post about how you did it.  Share the blog post with an engineering manager and ask for feedback
+    * Commit to writing social media posts 3x week about the progress on your current project
+    * While you are doing the networking you committed to in #1, talk about what you are working on and your career plans.  Don’t forget to reciprocate by asking the person sitting across from you about the exciting projects they are a part of as well.
+    * Take credit for the work you’ve done
+    * Accept compliments by simply saying “thank you”
 
 <strong>(4) If you want to be a good frontend developer, you need to learn at least a little about a backend framework</strong>
+
 Or vice versa.  While you’re at it, learn a little bit about design, too - especially if you want to freelance, work for a large company, or eventually move into management.  Your work as a dev will require you to understand requirements from someone who essentially is speaking a different language than you, then pass off your work to someone who uses <em>another</em> language!
 
 Coming from the software sales world, I see how often devs get stuck in their own bubble and forget to get a wholistic understanding of their product from the customer side, sales side, or even the design side.  You can make yourself stand out by understanding at least a little about what is going on over the fence and how the work you do will make an impact, or what you could do to make their jobs/lives easier.  Take a course in something new or talk with someone else who is in the role.
