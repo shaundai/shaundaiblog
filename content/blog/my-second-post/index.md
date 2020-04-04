@@ -30,7 +30,8 @@ If you aren’t working for a company with a lot of developers, you can meet oth
 <strong>(3) Toot your own horn!</strong>
 
 It’s YOUR JOB to make sure you’re putting your work in front of who it needs to get in front of.  Talk about what you’re working on and show off your progress.  It’s a tough shift to make for people who - like me - were taught that tooting your own horn makes you obnoxious.  Here are some ways to put yourself out there without feeling bad about it:
-     - Solve a problem/complete a project, then write a blog post about how you did it.  Share the blog post with an engineering manager and ask for feedback
+     
+    * Solve a problem/complete a project, then write a blog post about how you did it.  Share the blog post with an engineering manager and ask for feedback
     * Commit to writing social media posts 3x week about the progress on your current project
     * While you are doing the networking you committed to in #1, talk about what you are working on and your career plans.  Don’t forget to reciprocate by asking the person sitting across from you about the exciting projects they are a part of as well.
     * Take credit for the work you’ve done
