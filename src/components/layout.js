@@ -67,7 +67,7 @@ class Layout extends React.Component {
           <main>{children}</main>
         </div>
         <Footer>
-        <a href="www.twitter.com/shaundai">twitter</a> | 
+        <a href={`https://twitter.com/${social.twitter}`}>twitter</a> | 
         <br></br>
           © {new Date().getFullYear()} Shaundai Person
         </Footer>
