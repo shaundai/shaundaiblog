@@ -47,8 +47,8 @@ class IndexPage extends React.Component {
             )
           })}
         </div>
-        <Link to="/">
-          <Button marginTop="85px">Go Home</Button>
+        <Link to="http://www.shaundai.com">
+          <Button marginTop="85px">Main Page</Button>
         </Link>
       </Layout>
     )
