@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Shaundai's Blog`,
-    author: `Shaundai`,
+    title: `Object Literally`,
+    author: `Shaundai Person`,
     description: `Personal blog by Shaundai Person.`,
     siteUrl: `https://blog.shaundai.com/`,
     social: {

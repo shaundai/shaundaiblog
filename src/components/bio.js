@@ -34,10 +34,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>.  Mom of 1. MBA. Loves long #sociallydistant walks down empty grocery aisles.
-              {` `}
+              From cold calls to code calls.  A personal blog by <strong>{author}</strong>.
+              <br></br>
+              {`    `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                Follow her on Twitter
+                Follow me on Twitter
               </a>
             </p>
           </Container>
