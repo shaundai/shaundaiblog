@@ -1,6 +1,6 @@
 ---
 title: What I Learned by Asking Developers One Question
-date: "2015-05-06T23:46:37.121Z"
+date: "2020-01-06T23:46:37.121Z"
 ---
 
 Changing careers is no easy task.
@@ -10,6 +10,7 @@ Over the past year, I’ve been gradually building the skills needed to transiti
 As a full-time working mom, I need to be strategic about how I spend my time.  To make sure I was learning the right things and building the right stuff, I went to developers at all levels - from junior to VP - and asked the same question: <em>As someone coming from a non-technical role - how can I make myself stand out?</em>
 
 <strong>(1) Yes, you <em>should</em> build a portfolio</strong>
+
 Especially consider putting together a portfolio if you’re coming in at an entry level.  Don’t worry - you don’t need to spend months building a portfolio from scratch.  Host one easily using Github Pages or a website-generation site like Wix or Squarespace.  That part’s not important.
 
 What IS important is being strategic about the <em>types</em> of projects you put in your portfolio.  Remember that recruiters and hiring managers are looking through a lot of other portfolios like yours.  Make it stand out by making it clear which languages/frameworks you used so that they can see how your skills match the role you’re looking for.
