@@ -4,50 +4,50 @@ date: 2020-04-05T05:38:47.418Z
 title: Creating a Gatsby Blog
 description: Use Gatsby Personal Starter Blog to get up and running in 10 min.
 ---
-The biggest advantage of using Netlify as your headless CMS is that its just SO EASY to use.  If you are thinking of hosting a blog with Netlify as well, let me reassure you that the Gatsby + Netlify CMS is the way you can not only get this blog up and running in 10 minutes, but it makes adding new blog articles a breeze.  Netlify provides an admin dashboard so that you only have to set things up once, and then you can add future blog posts without having to spend a lot of time duplicate code over and over.
+Netlify makes it SO EASY for developers at any skill level to build and manage a static websites.  If you're thinking of hosting a blog with Netlify as well, let me assure you that the Gatsby + Netlify CMS is the way to get this blog up and running in 10 minutes.  Add  blog articles is a breeze;  Netlify provides an admin dashboard that allows you to add future posts without having to spending time duplicating code over and over.
 
-![Netlify CMS admin dashboard](assets/screen-shot-2020-04-05-at-12.40.51-am.png)
-
-Quick and easy instructions for adding a Gatsby blog to your existing Netlify site with a custom domain.  Here’s what you’ll need:
+Let's start by adding a Gatsby blog to your existing Netlify site with a custom domain.  Here’s what you’ll need:
 
 * Netlify site with custom domain (I purchased my domain from Netlify)
 * Gatsby CLI Installed
 * A GitHub account
 
-Let’s start out with a simple Gatsby blog.  Gatsby makes it easy to get started with a starter blog that you can use to get up and running quickly.
+Let’s start out with a simple Gatsby blog.  Gatsby provides a simple, yet elegant, starter blog for you to work with.
 
-Create your Gatsby blog:
+**Create your Gatsby blog:**
 
-1. In your terminal, type the following command to create a new Gatsby blog site using gatsby-personal-starter-blog.  \[your-project-title] should be the name of your blog (so, whatever you want).  The GitHub.com link needs to be exactly as typed below.  
+1.  In your terminal, type the following command to create a new Gatsby blog site using gatsby-personal-starter-blog.  `[your-project-title] `should be the name of your blog (so...whatever you want it to be).  The github.com link needs to be exactly as typed below.  
 
-   ```
-   gatsby new [your-project-title] https://github.com/thomaswangio/gatsby-personal-starter-blog
-   ```
+```
+gatsby new [your-project-title] https://github.com/thomaswangio/gatsby-personal-starter-blog
+```
 
-All of the Gatsby packages and dependencies will installed (about 3-4 minutes).
+Give Gatsby a moment to install all of the required packages and dependencies (about 3-4 minutes).
 
-2. cd into your project and run your project locally to see the updates in real time before sending to production.  To do this, type into your terminal:
+2. Once it's finished installing, cd into your project and run your project locally to see the updates in real time before sending to production.  To do this, type into your terminal:
 
-   ```
-   cd [your-project-title]
-   gatsby develop
-   ```
+```
+cd [your-project-title]
+gatsby develop
+```
 
- You officially have a Gatsby site!  How easy was that?! To see the local site, go to http://localhost:8000
+ You officially have a Gatsby site!  How easy was that?! To see the local site, go to `http://localhost:8000`
 
-Now, let’s do a couple of customizations before deploying to GitHub.
+Now, let’s make a few customizations before deploying to GitHub.
 
-Customize your blog site:
+**Customize your blog site:**
 
-Now it’s time to update your site to fit you. 
+1. This part will be essential for managing your Gatsby site using the admin dashboard.  Open this project in your favorite code editor and open `static/admin/config.yml`.  On line two, change the name from `name: test-repo to name: github`.  Press enter to add another line for line 3 and type `repo: [username]/[repo-name]`
 
-3. One more quick change so that you can manage your Gatsby site using the admin dashboard.  Open this project in your favorite code editor and open static/admin/config.yml.  On line two, change the name from name: test-repo to name: github.  Press enter to add another line for line 3 and type
+`[username]` should be your GitHub username.  `[repo-name]` should be the name of the GitHub repo where this project lives.  Here's how that section should now look:
 
-> repo: username/repo-name
+```
+backend:
+  name: github
+  repo: [username]/[repo-name]
+```
 
-username should be your GitHub username.  repo-name should be the name of the GitHub repo where this project lives.
-
-You can also get to the admin dashboard now as well: http://localhost:8000/admin.
+Now you can check out your gorgeous new admin dashboard: `http://localhost:8000/admin`.
 
 Connect your blog to GitHub repo: In GitHub, create a new repo (make sure to give it the same name as your project).  You’ll push your code to GitHub by typing the below into your terminal:
 
