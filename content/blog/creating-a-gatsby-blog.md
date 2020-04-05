@@ -14,7 +14,7 @@ Let's start by adding a Gatsby blog to your existing Netlify site with a custom 
 
 Let’s start out with a simple Gatsby blog.  Gatsby provides a simple, yet elegant, starter blog for you to work with.
 
-**Create your Gatsby blog:**
+### **Creating your Gatsby blog:**
 
 1.  In your terminal, type the following command to create a new Gatsby blog site using gatsby-personal-starter-blog.  `[your-project-title] `should be the name of your blog (so...whatever you want it to be).  The github.com link needs to be exactly as typed below.  
 
@@ -35,7 +35,9 @@ gatsby develop
 
 Now, let’s make a few customizations before deploying to GitHub.
 
-**Customize your blog site:**
+
+
+### **Customizing your blog site:**
 
 1. This part will be essential for managing your Gatsby site using the admin dashboard.  Open this project in your favorite code editor and open `static/admin/config.yml`.  On line two, change the name from `name: test-repo to name: github`.  Press enter to add another line for line 3 and type `repo: [username]/[repo-name]`
 
@@ -49,7 +51,15 @@ backend:
 
 Now you can check out your gorgeous new admin dashboard: `http://localhost:8000/admin`.
 
-Connect your blog to GitHub repo: In GitHub, create a new repo (make sure to give it the same name as your project).  You’ll push your code to GitHub by typing the below into your terminal:
+2. Continue to make the blog your own by opening gatsby-config.js in your code editor.  You'll find the default siteMetaData there; edit it to make it yours.
+
+Also, scroll down to the bottom to change the favicon (called icon) to something other than the Gatsby logo, and to make more customizations to the background color and name of your blog.
+
+
+
+### Connecting your blog to GitHub repo:
+
+In GitHub, create a new repo (make sure to give it the same name as your project).  You’ll push your code to GitHub by typing the below into your terminal:
 
 ```
 > git init
