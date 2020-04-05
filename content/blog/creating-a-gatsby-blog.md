@@ -55,8 +55,6 @@ Now you can check out your gorgeous new admin dashboard: `http://localhost:8000/
 
 Also, scroll down to the bottom to change the favicon (called icon) to something other than the Gatsby logo, and to make more customizations to the background color and name of your blog.
 
-
-
 ### Connecting your blog to GitHub repo:
 
 In GitHub, create a new repo (make sure to give it the same name as your project).  You’ll push your code to GitHub by typing the below into your terminal:
@@ -68,3 +66,5 @@ In GitHub, create a new repo (make sure to give it the same name as your project
 > git remote add origin https://github.com/[username]/[repo-name]
 > git push -u origin master
 ```
+
+You're done! Give yourself a pat on the back.
