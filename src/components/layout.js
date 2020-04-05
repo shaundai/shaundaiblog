@@ -24,7 +24,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `#317873`,
             }}
             to={location.pathname === blogPath ? `/` : `/blog/`}
           >
@@ -44,7 +44,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `#317873`,
             }}
             to={`/`}
           >
@@ -66,11 +66,11 @@ class Layout extends React.Component {
           <header>{header}</header>
           <main>{children}</main>
         </div>
-        <Footer>
+        <Footer style={{color: `#317873`}}>
         <a href="https://shaundai.com/">home</a>
-         | 
+        {`  |  `}
         <a href="https://twitter.com/shaundai">twitter</a>
-         | 
+        {`  |  `}
         <a href="mailto:shaundai@me.com">email</a>
         <br></br>
           © {new Date().getFullYear()} Shaundai Person

@@ -34,12 +34,12 @@ function Bio() {
               }}
             />
             <p>
-              From cold calls to code calls.  A personal blog by <strong>{author}</strong>.
+              From cold calls to code calls.
               <br></br>
-              {`    `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Follow me on Twitter
-              </a>
+              {`Blog by `}
+              <strong><a href={`https://twitter.com/${social.twitter}`} style={{color:`#317873`}}>
+                {author}
+              </a></strong>.
             </p>
           </Container>
         )
