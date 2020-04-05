@@ -1,6 +1,6 @@
 backend:
-  name: shaundai
-  repo: shaundaiblog
+  name: github
+  repo: shaundai/shaundaiblog
 
 media_folder: static/assets
 public_folder: assets
