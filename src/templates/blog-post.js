@@ -36,6 +36,9 @@ class BlogPostTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
+        <Link style={{
+          color: `#317873`,
+        }}><h1 style={{...scale(1 / 2), padding: 0, margin: 0}}>{siteTitle}</h1></Link>
         <Bio />
 
         <ul
@@ -49,14 +52,14 @@ class BlogPostTemplate extends React.Component {
         >
           <li>
             {previous && (
-              <Link to={`blog${previous.fields.slug}`} rel="prev">
+              <Link to={`blog${previous.fields.slug}`} rel="prev" style={{color: `#317873`}}>
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={`blog${next.fields.slug}`} rel="next">
+              <Link to={`blog${next.fields.slug}`} rel="next" style={{color: `#317873`}}>
                 {next.frontmatter.title} →
               </Link>
             )}
