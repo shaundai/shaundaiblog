@@ -22,12 +22,12 @@ Create your Gatsby blog:
 
 Wait until all of the Gatsby packages and dependencies have been installed.
 
-2. cd into your project by typing this into your terminal
+2. cd into your project and run your project locally to see the updates in real time before sending to production.  To do this, type into your terminal:
 
-   > cd \[your-project-title]
-3. Run your project locally to see the updates in real time before sending to production.  To do this, type into your terminal:
-
-   > gatsby develop
+   ```
+   cd [your-project-title]
+   gatsby develop
+   ```
 
  You officially have a Gatsby site!  How easy was that?! To see the local site, go to http://localhost:8000
 
@@ -35,11 +35,11 @@ Now, let’s do a couple of customizations before deploying to GitHub.
 
 Customize your blog site:
 
-Now it’s time to update your site to fit you.  
+Now it’s time to update your site to fit you. 
 
-4. One more quick change so that you can manage your Gatsby site using the admin dashboard.  Open this project in your favorite code editor and open static/admin/config.yml.  On line two, change the name from name: test-repo to name: github.  Press enter to add another line for line 3 and type
+3. One more quick change so that you can manage your Gatsby site using the admin dashboard.  Open this project in your favorite code editor and open static/admin/config.yml.  On line two, change the name from name: test-repo to name: github.  Press enter to add another line for line 3 and type
 
-   > repo: username/repo-name
+> repo: username/repo-name
 
 username should be your GitHub username.  repo-name should be the name of the GitHub repo where this project lives.
 
