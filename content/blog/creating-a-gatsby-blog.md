@@ -4,7 +4,9 @@ date: 2020-04-05T05:38:47.418Z
 title: Creating a Gatsby Blog
 description: Use Gatsby Personal Starter Blog to get up and running in 10 min.
 ---
-The biggest advantage of using Netlify as your headless CMS is that its just SO EASY to use.  If you are thinking of hosting a blog with Netlify as well, let me reassure you that the Gatsby + Netlify CMS is the way you can not only get this blog up and running in 10 minutes, but it makes adding new blog articles a breeze.  Netlify provides an admin dashboard ADD PIC FROM SCREENSHOT so that you only have to set things up once, and then you can add future blog posts without having to spend a lot of time duplicate code over and over.
+The biggest advantage of using Netlify as your headless CMS is that its just SO EASY to use.  If you are thinking of hosting a blog with Netlify as well, let me reassure you that the Gatsby + Netlify CMS is the way you can not only get this blog up and running in 10 minutes, but it makes adding new blog articles a breeze.  Netlify provides an admin dashboard so that you only have to set things up once, and then you can add future blog posts without having to spend a lot of time duplicate code over and over.
+
+![Netlify CMS admin dashboard](assets/screen-shot-2020-04-05-at-12.40.51-am.png)
 
 Quick and easy instructions for adding a Gatsby blog to your existing Netlify site with a custom domain.  Here’s what you’ll need:
 
@@ -18,9 +20,11 @@ Create your Gatsby blog:
 
 1. In your terminal, type the following command to create a new Gatsby blog site using gatsby-personal-starter-blog.  \[your-project-title] should be the name of your blog (so, whatever you want).  The GitHub.com link needs to be exactly as typed below.  
 
-   > gatsby new \[your-project-title] https://github.com/thomaswangio/gatsby-personal-starter-blog
+   ```
+   gatsby new [your-project-title] https://github.com/thomaswangio/gatsby-personal-starter-blog
+   ```
 
-Wait until all of the Gatsby packages and dependencies have been installed.
+All of the Gatsby packages and dependencies will installed (about 3-4 minutes).
 
 2. cd into your project and run your project locally to see the updates in real time before sending to production.  To do this, type into your terminal:
 
