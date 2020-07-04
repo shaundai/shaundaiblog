@@ -39,7 +39,7 @@ class IndexPage extends React.Component {
                   </Link>
                 </h3>
                 <small>{node.frontmatter.date}</small>
-                tags.map(t => {
+                {tags.map(t => {
                   <small>hi</small>
                  })}
                 <p
