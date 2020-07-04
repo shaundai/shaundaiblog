@@ -72,6 +72,8 @@ class Layout extends React.Component {
         <a href="https://twitter.com/shaundai">twitter</a>
         {`  |  `}
         <a href="mailto:shaundai@me.com">email</a>
+        {`  |  `}
+        <a href="https://github.com/shaundai">github</a>
         <br></br>
           © {new Date().getFullYear()} Shaundai Person
         </Footer>
