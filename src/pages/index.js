@@ -23,6 +23,7 @@ class IndexPage extends React.Component {
         <div style={{ margin: "20px 0 40px" }}>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
+            const tags = node.frontmatter.tags
             return (
               <div key={node.fields.slug}>
                 <h3
@@ -38,6 +39,10 @@ class IndexPage extends React.Component {
                   </Link>
                 </h3>
                 <small>{node.frontmatter.date}</small>
+                {tags && tags.length > 0 ? ` - ` : ``}
+                {tags && tags.split(", ").map(t => (
+                <span key={`${title}-${t}`}>{t}</span>
+                ))}
                 <p
                   dangerouslySetInnerHTML={{
                     __html: node.frontmatter.description || node.excerpt,
@@ -75,6 +80,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            tags
           }
         }
       }
