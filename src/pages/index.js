@@ -26,6 +26,7 @@ class IndexPage extends React.Component {
             const tags = node.frontmatter.tags
             return (
               <div key={node.fields.slug}>
+                
                 <h3
                   style={{
                     marginBottom: rhythm(1 / 4),
@@ -39,14 +40,16 @@ class IndexPage extends React.Component {
                   </Link>
                 </h3>
                 <small>{node.frontmatter.date}</small>
-                {tags.map(t => {
-                  <small>hi</small>
-                 })}
-                <p
+                <p style={{marginBottom: '.5em'}}
                   dangerouslySetInnerHTML={{
                     __html: node.frontmatter.description || node.excerpt,
                   }}
                 />
+                 <small><div>{tags ? tags.map(t => (
+                  <button style={{marginRight: '.5em', border: 'none', borderRadius: '.7em', backgroundColor: '#3d9690', color: 'white', fontSize: '1em', fontWeight: 600, padding: '.2em .5em', fontFamily: 'Arial'}}>{t}</button>
+                )) : null }
+                </div>
+                </small>
               </div>
             )
           })}
