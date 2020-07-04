@@ -3,6 +3,7 @@ path: gatsby-blog
 date: 2020-04-05T05:38:47.418Z
 title: Creating a Gatsby Blog
 description: Use Gatsby Personal Starter Blog to get up and running in 10 min.
+tags: ["nothing"]
 ---
 Netlify makes it SO EASY for developers at any skill level to build and manage a static websites.  If you're thinking of hosting a blog with Netlify as well, let me assure you that the Gatsby + Netlify CMS is the way to get this blog up and running in 10 minutes.  Add  blog articles is a breeze;  Netlify provides an admin dashboard that allows you to add future posts without having to spending time duplicating code over and over.
 
