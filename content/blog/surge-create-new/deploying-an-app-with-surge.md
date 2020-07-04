@@ -24,8 +24,8 @@ We're going to deploy to surge at this point, which is as easy as typing one wor
 
 Surge will prompt you to either create an account or log in.  If this is your first time using Surge, use your email address and create a password to create a Surge account through the command line.  If you've used surge before, your most recently used credentials will appear and you can press enter to keep it moving or create a new account/enter a different login from there.
 
-change the name of the domain if you want or leave as-is
+Surge will make up a domain name for you.  You can keep the domain they give you, change the surge sub-domain to your own available name (for example: 'my-customname.surge.sh'), or use a custom domain by following the ![instructions here](https://surge.sh/help/adding-a-custom-domain)
 
-enter
+Press enter.
 
-done.
+You're done!  Enter the link in your browser to see your app live in action.
