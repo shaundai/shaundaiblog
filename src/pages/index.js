@@ -40,7 +40,7 @@ class IndexPage extends React.Component {
                 </h3>
                 <small>{node.frontmatter.date}</small>
                 {tags && tags.length > 0 ? ` - ` : ``}
-                {tags && tags.split(", ").map(t => (
+                {tags.map(t => (
                 <span key={`${title}-${t}`}>{t}</span>
                 ))}
                 <p
