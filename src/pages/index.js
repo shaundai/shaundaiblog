@@ -39,9 +39,9 @@ class IndexPage extends React.Component {
                   </Link>
                 </h3>
                 <small>{node.frontmatter.date}</small>
-                {tags ? tags.map(t => {
+                <small>{tags ? tags.map(t => {
                   <span>{t}</span>
-                })
+                 }) : null }</small>
                 <p
                   dangerouslySetInnerHTML={{
                     __html: node.frontmatter.description || node.excerpt,
