@@ -40,7 +40,7 @@ class IndexPage extends React.Component {
                 </h3>
                 <small>{node.frontmatter.date}</small>
                 <small>{tags.map(t => {
-                  <span>hi</span>
+                  hi
                  })}</small>
                 <p
                   dangerouslySetInnerHTML={{
