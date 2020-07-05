@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import styled from 'styled-components';
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -46,7 +47,7 @@ class IndexPage extends React.Component {
                   }}
                 />
                  <small><div>{tags ? tags.map(t => (
-                  <button style={{marginRight: '.5em', border: 'none', borderRadius: '.7em', backgroundColor: '#3d9690', color: 'white', fontSize: '1em', fontWeight: 600, padding: '.2em .5em', fontFamily: 'Arial'}}>{t}</button>
+                  <BlogTag>{t}</BlogTag>
                 )) : null }
                 </div>
                 </small>
@@ -88,4 +89,17 @@ export const pageQuery = graphql`
       }
     }
   }
+`
+
+const BlogTag = styled.button`
+margin-right: .5em;
+border-radius: .7em;
+background-color: #3d9690;
+color: white;
+font-size: 1em;
+font-weight: 600;
+padding: .2em .5em;
+font-family: Arial;
+border-width: 1px;
+border-color: -internal-light-dark-color(rgb(49, 120, 115), rgb(49, 120, 115));
 `
