@@ -2,7 +2,7 @@
 title: What I Learned by Asking Developers One Question
 date: "2020-01-06T23:46:37.121Z"
 description: If you're trying to get into tech, this is for you.
-tags: ["career"]
+tags: ["#career"]
 ---
 
 Changing careers is no easy task.

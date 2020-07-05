@@ -101,5 +101,5 @@ font-weight: 600;
 padding: .2em .5em;
 font-family: Arial;
 border-width: 1px;
-border-color: -internal-light-dark-color(rgb(49, 120, 115), rgb(49, 120, 115));
+border-color: #CDCDCD;
 `

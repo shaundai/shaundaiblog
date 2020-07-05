@@ -2,7 +2,7 @@
 title: How to Deploy Create-React-App on Surge
 date: "2020-07-01T23:46:37.121Z"
 description: Have a React app you're ready for the world to see? Check out these 5 easy steps to deploy that bad boy!
-tags: ["deploying", "React", "Surge"]
+tags: ["#react", "#surge", "#deploying"]
 ---
 
 First things first - let's make sure you have surge installed.
