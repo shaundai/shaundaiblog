@@ -18,10 +18,14 @@ When you run an application built in TypeScript in a local or production environ
 
 So… why not just use JavaScript?  The short answer - TypeScript makes code less error prone and more readable.  TypeScript is also better for projects that fit any of the following criteria:
 
-  * Are large or complex
-  * Need to be maintained by multiple people
-  * Will evolve and be maintained over time
+   * Are large or complex
+   * Need to be maintained by multiple people
+   * Will evolve and be maintained over time
 
 ###### Cons:
 
 Some might argue that TypeScript is more trouble than it’s worth because it takes longer to develop.  Essentially, you’re adding static types to a dynamically-written language so 
+
+
+#### The Basics
+
