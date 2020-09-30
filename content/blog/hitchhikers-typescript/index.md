@@ -22,5 +22,5 @@ So… why not just use JavaScript?  The short answer - TypeScript makes code les
 * Need to be maintained by multiple people
 * Will evolve and be maintained over time
 
-######Cons:
+###### Cons:
 Some might argue that TypeScript is more trouble than it’s worth because it takes longer to develop.  Essentially, you’re adding static types to a dynamically-written language so 
