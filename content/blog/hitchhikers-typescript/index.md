@@ -16,7 +16,7 @@ When you run an application built in TypeScript in a local or production environ
 
 ##### Kinda like PropTypes.  But better.
 
-So… why not just use JavaScript?  The short answer - TypeScript makes code less error prone and more readable.  TypeScript is also better for projects that fit any of the following criteria:
+So… why not just use JavaScript?  The short answer - TypeScript makes code **less error prone** and **more readable**.  TypeScript is also better for projects that fit any of the following criteria:
 
    * Are large or complex
    * Need to be maintained by multiple people
