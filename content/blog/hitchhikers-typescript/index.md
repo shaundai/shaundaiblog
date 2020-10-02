@@ -29,3 +29,16 @@ Some might argue that TypeScript is more trouble than it’s worth because it ta
 
 #### The Basics
 
+Start your file - needs to be .ts (or .tsx if you're testing)
+
+Implied Types vs Explicit Types
+
+Types are optional, but it's the part of TypeScript that makes it what it is.  If you don't include a type, TypeScript will infer
+
+Data Types (w/examples)
+Number
+String
+Objects
+Boolean
+Array
+Any
