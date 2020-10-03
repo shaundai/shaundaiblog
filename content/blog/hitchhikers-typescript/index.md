@@ -43,25 +43,35 @@ Explicitly calling out types is optional, but types are what makes TypeScript so
 
 TypeScript supports both floating point numbers (decimals, binary, etc) and BigIntegers (ex. 100n).  Declare a number like this:
 
+```
 const decimal: number = 6;
+```
 
 or a BigInteger like this:
+
+```
 const bigInteger: bigint = 100n
+```
 
 ###### String
 Just like with JavaScript, TypeScript accepts single quotes (‘) or double quotes (“) for strings
 
+```
 const food: string = “pizza”;
+```
 
 or
 
+```
 const food: string = ‘pizza’;
-
+```
 
 ###### Boolean
 Are you starting to see a pattern? TypeScript supports all of the same data types that JavaScript does.  Again, TypeScript is just a superset of JavaScript that makes error handling a lot easier by converting JavaScript into a static programming language.
 
-const 
+```
+const isOpen: boolean = true;
+```
 
 ###### Objects
 
