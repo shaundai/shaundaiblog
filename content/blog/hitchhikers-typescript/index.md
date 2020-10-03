@@ -31,14 +31,39 @@ Some might argue that TypeScript is more trouble than it’s worth because it ta
 
 Start your file - needs to be .ts (or .tsx if you're testing)
 
-Implied Types vs Explicit Types
+##### Implied Types vs Explicit Types
 
-Types are optional, but it's the part of TypeScript that makes it what it is.  If you don't include a type, TypeScript will infer
+TypeScript is a static language.  You may already be familiar with static languages such as C or Java.  “Static” refers to the data types you give to TypeScript and means that TypeScript will want you to declare these types in your functions and variable declarations.
 
-Data Types (w/examples)
-Number
-String
-Objects
-Boolean
-Array
-Any
+Explicitly calling out types is optional, but types are what makes TypeScript so powerful.  If you don't include a type, TypeScript will infer
+
+##### Data Types: Examples
+
+###### Number
+
+TypeScript supports both floating point numbers (decimals, binary, etc) and BigIntegers (ex. 100n).  Declare a number like this:
+
+const decimal: number = 6;
+
+or a BigInteger like this:
+const bigInteger: bigint = 100n
+
+###### String
+Just like with JavaScript, TypeScript accepts single quotes (‘) or double quotes (“) for strings
+
+const food: string = “pizza”;
+
+or
+
+const food: string = ‘pizza’;
+
+
+###### Boolean
+Are you starting to see a pattern? TypeScript supports all of the same data types that JavaScript does.  Again, TypeScript is just a superset of JavaScript that makes error handling a lot easier by converting JavaScript into a static programming language.
+
+const 
+
+###### Objects
+
+###### Array
+###### Any
