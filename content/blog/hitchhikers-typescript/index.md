@@ -76,4 +76,13 @@ const isOpen: boolean = true;
 ###### Objects
 
 ###### Array
+Arrays can be 
+
 ###### Any
+
+
+###### What happens when I don't know what data type I'll have?
+Let's say that we have a questionnaire on our website that asks the user:
+
+
+#### Generic Types
