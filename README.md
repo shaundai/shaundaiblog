@@ -1,1 +1,1 @@
-Shaundai Person's super awesome personal blog - created using Gatsby.js
+Personal Blog of Shaundai Person.  Created using Gatsby Starter Blog.  Maintained by Shaundai Person
