@@ -19,12 +19,12 @@ If you’re looking to make a switch to a more technical role but don’t want t
 Here are some reasons you might be looking to stay with your current company:
 
 
-Find a Mentor
+#### Find a Mentor
 
 A mentor:
 -Does not have to work at your company
 
-Find an Internal Advocate
+#### Find an Internal Advocate
 This may be different than a mentor.  Or it could be the same person.  An internal advocate will go to bat for you when you're not around.  The internal advocate will get in front of the right people (and make sure that YOU'RE put in front of the right people) with the message that you rock and you would make a strong fit on your company's engineering team.  Here are some qualities of a good internal candidate:
 -Provides you with helpful information about how to stand out at your organization
 -Is trusted and respected by the people who make the hiring decisions on your engineering team
