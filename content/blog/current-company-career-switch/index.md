@@ -21,9 +21,19 @@ Here are some reasons you might be looking to stay with your current company:
 
 Find a Mentor
 
+A mentor:
+-Does not have to work at your company
+
 Find an Internal Advocate
 This may be different than a mentor.  Or it could be the same person.  An internal advocate will go to bat for you when you're not around.  The internal advocate will get in front of the right people (and make sure that YOU'RE put in front of the right people) with the message that you rock and you would make a strong fit on your company's engineering team.  Here are some qualities of a good internal candidate:
+-Provides you with helpful information about how to stand out at your organization
+-Is trusted and respected by the people who make the hiring decisions on your engineering team
+-Works for your company
+-If put in front of one of the people who make the hiring decision on your engineering team, is willing to speak on behalf of you
+-Speaks highly of you (and often) when you're not around
 
+How to get an Internal Advocate
+-Give him/her talking points! Make a point to regularly reach out to show them projects you're working on and ask for their feedback.  Ask: "If I were building this for {{our company}}, what would I add?" "If I were working on this project with others, what kinds of things should I incorporate?" "Is this something you'd find useful? What would you change?"
 
 
 Invite someone from your engineering team out for coffee once a week
