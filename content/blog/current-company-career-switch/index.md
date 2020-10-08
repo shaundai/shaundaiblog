@@ -37,6 +37,7 @@ How to get an Internal Advocate
 
 
 Invite someone from your engineering team out for coffee once a week
+This rule is true for everything - it's not always what you know - it's WHO you know.  When it comes down to you vs another internal candidate, if more people on your engineering team already know you and start to see you as a natural fit for the team, they are going to advocate for YOU to be the next engineering hire.
 
 Toot your own horn
 
