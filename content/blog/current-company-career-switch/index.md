@@ -40,6 +40,7 @@ Invite someone from your engineering team out for coffee once a week
 This rule is true for everything - it's not always what you know - it's WHO you know.  When it comes down to you vs another internal candidate, if more people on your engineering team already know you and start to see you as a natural fit for the team, they are going to advocate for YOU to be the next engineering hire.
 
 Toot your own horn
+Self-advovavy is the 
 
 Show your hiring manager your plan – ask for feedback
 
@@ -49,3 +50,6 @@ Chances are that if you are happy enough at your own company that you want to ju
 Figure out which projects would be appealing to your team and BUILD THEM
 
 Learn about your company’s tech stack
+
+Do a Good Job!
+B
