@@ -40,7 +40,10 @@ Invite someone from your engineering team out for coffee once a week
 This rule is true for everything - it's not always what you know - it's WHO you know.  When it comes down to you vs another internal candidate, if more people on your engineering team already know you and start to see you as a natural fit for the team, they are going to advocate for YOU to be the next engineering hire.
 
 Toot your own horn
-Self-advocacy is the 
+Self-advocacy makes a lot of us feel uncomfortable.  It can feel like bragging or showing off.  But if you're not letting people know about what you're working on, no one will know about all of the time and effort you've been putting into learning to code.  And I can guarantee that if there IS someone else who feels comfortable talking about their work, they are going to get that job when it opens up before you do.
+
+Here are some ways to toot your own horn (without feeling too braggy):
+Set up quarterly meetings with the hiring manager to talk through progress.  I used this spreadsheet in one of my conversations to highlight the projects that I'd done and how they mapped to the skills on the junior job listing.
 
 Show your hiring manager your plan – ask for feedback
 
