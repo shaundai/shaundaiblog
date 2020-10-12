@@ -5,7 +5,8 @@ description: Practical Ideas and Advice for those who want to stay with their cu
 tags:
 ---
 
-Last month (Sept 2020), I accepted an offer as a Junior Software Engineer at my current company, [SalesLoft](https://www.salesloft.com).  In July 2019, I’d committed to *really* learning JavaScript with the intention of eventually building enough skills to make a career switch.  At the time, I had no plans to leave the company, and what made my switch
+In July 2019, I’d committed to *really* learning JavaScript with the intention of eventually building enough skills to make a career switch.  A little over a year later, I accepted an offer as a Junior UI Engineer at my [current company](https://www.salesloft.com).  When I first started at SalesLoft, I had 11 successful years of experience in sales and 0 years of professional experience as a developer.  I wasn't sure that making a career switch to engineering was possible or even was something that I wanted to do.
+However, 
 
 SalesLoft is a software company based out of Atlanta, GA.  Some things that made my current company a good fit for my first software engineering job:
 
@@ -32,15 +33,15 @@ A mentor:
 
 
 #### Find an Internal Advocate
-This may be different than a mentor.  Or it could be the same person.  An internal advocate will go to bat for you when you're not around.  The internal advocate will get in front of the right people (and make sure that YOU'RE put in front of the right people) with the message that you rock and you would make a strong fit on your company's engineering team.  Here are some qualities of a good internal candidate:
--Provides you with helpful information about how to stand out at your organization
--Is trusted and respected by the people who make the hiring decisions on your engineering team
--Works for your company
--If put in front of one of the people who make the hiring decision on your engineering team, is willing to speak on behalf of you
--Speaks highly of you (and often) when you're not around
+This person is likely a different person from your mentor, but it could be the same person.  An internal advocate will go to bat for you when you're not around.  The internal advocate will get in front of the right people (and make sure that YOU'RE put in front of the right people) with the message that you rock and you would make a strong fit on your company's engineering team.  Here are some qualities of a good advocate:
+- Works for your company at a senior leadership or higher
+- Provides you with helpful information about how to stand out at your organization
+- Is trusted and respected by the people who make the hiring decisions on your engineering team
+- If put in front of one of the people who make the hiring decision on your engineering team, is willing to speak on behalf of you
+- Speaks highly of you (and often) when you're not around
 
 How to get an Internal Advocate
--Give him/her talking points! Make a point to regularly reach out to show them projects you're working on and ask for their feedback.  Ask: "If I were building this for {{our company}}, what would I add?" "If I were working on this project with others, what kinds of things should I incorporate?" "Is this something you'd find useful? What would you change?"
+- Give him/her talking points! Make a point to regularly reach out to show them projects you're working on and ask for their feedback.  Ask: "If I were building this for {{our company}}, what would I add?" "If I were working on this project with others, what kinds of things should I incorporate?" "Is this something you'd find useful? What would you change?"
 
 
 #### Go for coffee
