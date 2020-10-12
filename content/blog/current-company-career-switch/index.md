@@ -5,15 +5,17 @@ description: Practical Ideas and Advice for those who want to stay with their cu
 tags:
 ---
 
-In July 2019, I’d committed to *really* learning JavaScript with the intention of eventually building enough skills to make a career switch.  A little over a year later, I accepted an offer as a Junior UI Engineer at my [current company](https://www.salesloft.com).  When I first started at SalesLoft, I had 11 successful years of experience in sales and 0 years of professional experience as a developer.  I wasn't sure that making a career switch to engineering was possible or even was something that I wanted to do.
-However, 
+In July 2019, I’d committed to *really* learning JavaScript with the intention of eventually building enough skills to make a career switch.  
+A little over a year later, I accepted an offer as a Junior UI Engineer at my [current company](https://www.salesloft.com).  
+When I first started at SalesLoft, I had 11 successful years of experience in sales and exactly 0 years of professional experience as a developer.  
+I wasn't sure that making a career switch to engineering was possible or even was something that I wanted to do.
+Once I decided that software engineering was going to be my next career path, I needed to become strategic about the way that I approached getting the attention of the hiring managers on our engineering team.  
 
-SalesLoft is a software company based out of Atlanta, GA.  Some things that made my current company a good fit for my first software engineering job:
+If you’re looking to make a switch to a more technical role but don’t want to leave your current company (I assume that’s why you’re here in the first place!), this article is for you.
+You will be competing against others inside and outside of your organization with more experience than you.  Impostor syndrome may have already kicked in before you've even finished your resume.
+Here are some practical pieces of advice based on things I’ve done to stand out.
 
-If you’re looking to make a switch to a more technical role but don’t want to leave your current company (I assume that’s why you’re here in the first place!), here’s some practical advice based on things I’ve done to stand out.
-
-
-Here are some reasons you might be looking to stay with your current company:
+Some reasons you might be looking to stay with your current company:
 
 -  You love the company you're with
 
