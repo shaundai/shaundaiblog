@@ -5,9 +5,11 @@ description: Practical Ideas and Advice for those who want to stay with their cu
 tags:
 ---
 
-In July 2019, I’d committed to *really* learning JavaScript with the intention of eventually building enough skills to make a career switch.  
+When I first started at SalesLoft, I had 11 successful years of experience in sales and exactly 0 years of professional experience as a developer.
+
+In July 2019, I’d committed to *really* learning JavaScript with the intention of eventually building the skills to make a career switch.  
 A little over a year later, I accepted an offer as a Junior UI Engineer at my [current company](https://www.salesloft.com).  
-When I first started at SalesLoft, I had 11 successful years of experience in sales and exactly 0 years of professional experience as a developer.  
+
 I wasn't sure that making a career switch to engineering was possible or even was something that I wanted to do.
 Once I decided that software engineering was going to be my next career path, I needed to become strategic about the way that I approached getting the attention of the hiring managers on our engineering team.  
 
