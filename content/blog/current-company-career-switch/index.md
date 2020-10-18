@@ -2,7 +2,8 @@
 title: Switching Departments at your Current Company
 date: "2020-10-04T22:12:03.284Z"
 description: Practical Ideas and Advice for those who want to stay with their current employer, but want to switch from a different department or team.
-tags:
+canonical: "https://blog.shaundai.com/blog/current-company-career-switch/"
+tags: ["#career"]
 ---
 
 When I first started at SalesLoft, I had 11 successful years of experience in sales and exactly 0 years of professional experience as a developer.
