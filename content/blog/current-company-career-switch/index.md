@@ -6,7 +6,7 @@ canonical: "https://blog.shaundai.com/blog/current-company-career-switch/"
 tags: ["#career"]
 ---
 
-When I first started at SalesLoft, I had 11 successful years of experience in sales and exactly 0 years of professional experience as a developer.
+When I started at SalesLoft, I had 11 successful years of experience in sales and exactly 0 years of professional experience as a developer.
 
 In July 2019, I’d committed to *really* learning JavaScript with the intention of eventually building the skills to make a career switch.  
 A little over a year later, I accepted an offer as a Junior UI Engineer at my [current company](https://www.salesloft.com).  
