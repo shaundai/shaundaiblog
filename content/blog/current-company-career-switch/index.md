@@ -8,7 +8,7 @@ tags: ["#career"]
 
 I started a sales role at [SalesLoft](https://www.salesloft.com) when I moved to Atlanta, 11 years into a successful career in sales.  At the time, I had exactly 0 years of professional experience as a developer.  Software engineering was something that I said I wish I could do “if I could go back.”  Realistically, though, I wasn't sure that making a full career switch was possible or even was something that I wanted to do.
 
-Fast forward to July 2019, when I decided that committed to *really* learning JavaScript with the intention of eventually building the skills to make a career switch.  A little over a year later, I accepted an offer as a Junior UI Engineer at my [current company](https://www.salesloft.com).  This advice is for anyone looking to make a similar switch to engineering.  Whether you’re coming from a non-technical or technical role, here are some tips to getting there without leaving your current company.
+Fast forward to July 2019, when I committed to *really* learning JavaScript with the intention of eventually building the skills to make a career switch.  A little over a year later, I accepted an offer as a Junior UI Engineer at my [current company](https://www.salesloft.com).  This advice is for anyone looking to make a similar switch to engineering.  Whether you’re coming from a non-technical or technical role, here are some tips to getting there without leaving your current company.
 
 Get right to the tips:
 Find a Mentor
