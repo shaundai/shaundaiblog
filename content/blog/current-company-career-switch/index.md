@@ -11,13 +11,12 @@ I started a sales role at [SalesLoft](https://www.salesloft.com) when I moved to
 Fast forward to July 2019, when I committed to *really* learning JavaScript with the intention of eventually building the skills to make a career switch.  A little over a year later, I accepted an offer as a Junior UI Engineer at my [current company](https://www.salesloft.com).  This advice is for anyone looking to make a similar switch to engineering.  Whether you’re coming from a non-technical or technical role, here are some tips to getting there without leaving your current company.
 
 Get right to the tips:
-Find a Mentor
-Find an Internal Advocate
-Go for Coffee
-Toot Your Own Horn
+[Find a Mentor](#mentor)
+[Find an Internal Advocate](#advocate)
+[Go for Coffee](#coffee)
+[Toot Your Own Horn](#toothorn)
 
-#### Find a Mentor
-Remember 
+#### <a name="mentor"></a>Find a Mentor
 
 A mentor:
 - Does not necessarily have to work at your company (but in this case, it’s better if he/she does)
@@ -28,7 +27,7 @@ A mentor:
 
 Remember that you can have more than one mentor.  In fact, I’ll just go ahead and say that you *should* try and find more than one mentor.  Different mentors can help with different areas of your life.  For example, you may have a mentor for parenting, a mentor for becoming a better JavaScript developer, and an internal mentor at your company who helps you navigate your career as an engineer.
 
-#### Find an Internal Advocate
+#### <a name="advocate"></a>Find an Internal Advocate
 This person is likely a different person from your mentor, but it could be the same person.  An internal advocate will go to bat for you when you're not around.  The internal advocate will get in front of the right people (and make sure that YOU'RE put in front of the right people) with the message that you rock and you would make a strong fit on your company's engineering team.  Here are some qualities of a good advocate:
 - Works for your company at a senior leadership or higher
 - Provides you with helpful information about how to stand out at your organization
@@ -40,7 +39,7 @@ Quick tips:
 - Give him/her talking points! Make a point to regularly reach out to show them projects you're working on and ask for their feedback.  Ask: "If I were building this for {{our company}}, what would I add?" "If I were working on this project with others, what kinds of things should I incorporate?" "Is this something you'd find useful? What would you change?"
 
 
-#### Go for coffee
+#### <a name="coffee"></a>Go for coffee
 Invite someone from your engineering team out for coffee once a week.  I mean, it doesn't have to be coffee.  Could be tea.  Could be for a walk and talk over the phone.  This rule is true for everything - it's not always what you know - it's WHO you know.  When it comes down to you vs another internal candidate, if more people on your engineering team already know you and start to see you as a natural fit for the team, they are going to advocate for YOU to be the next engineering hire.
 
 Quick tips:
