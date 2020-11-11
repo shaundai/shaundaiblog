@@ -11,9 +11,13 @@ I started a sales role at [SalesLoft](https://www.salesloft.com) when I moved to
 Fast forward to July 2019, when I committed to *really* learning JavaScript with the intention of eventually building the skills to make a career switch.  A little over a year later, I accepted an offer as a Junior UI Engineer at my [current company](https://www.salesloft.com).  This advice is for anyone looking to make a similar switch to engineering.  Whether you’re coming from a non-technical or technical role, here are some tips to getting there without leaving your current company.
 
 Get right to the tips:
+
 [Find a Mentor](#mentor)
+
 [Find an Internal Advocate](#advocate)
+
 [Go for Coffee](#coffee)
+
 [Toot Your Own Horn](#toothorn)
 
 #### <a name="mentor"></a>Find a Mentor
