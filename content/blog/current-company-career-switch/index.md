@@ -57,7 +57,7 @@ Set up quarterly meetings with the hiring manager to talk through progress.  I u
 Show your hiring manager your plan – ask for feedback
 
 #### Get buy-in from your current manager
-Chances are that if you are happy enough at your own company that you want to just make a shift to a diff department vs going somewhere else, you have a manager who would be open to seeing you grow.  You may be surprised – sometimes you just need to ask.
+This section assumes that you have a manager who would be open to seeing you grow, even if it doesn't mean that it will be with them.  Managers understand that you aren't planning to stay with them forever.  Plan out how you will tell your manager that you're thinking about moving to a different team and ask for their support.  Many places will want you to be in your current role for at least a year before making any transitions.  You may be surprised – sometimes you just need to ask.
 
 Figure out which projects would be appealing to your team and BUILD THEM
 
