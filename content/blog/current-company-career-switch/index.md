@@ -20,6 +20,8 @@ Get right to the tips:
 
 [Toot Your Own Horn](#toothorn)
 
+[Do a Good Job](#goodjob)
+
 #### <a name="mentor"></a>Find a Mentor
 
 A mentor:
@@ -75,7 +77,7 @@ So who really benefits? Your new hiring manager! Not only that, this person has 
 Quick Tips:
 -	Other junior candidates might have that CS Degree or bootcamp education that you don’t, but your huge advantage is your knowledge of your own company and access to your hiring manager.   
 -	
-Do a Good Job!
+#### <a name="goodjob"></a>Do a Good Job!
 Have you ever heard the expression “dress for the job you want, not the job you have?”  
 
 
