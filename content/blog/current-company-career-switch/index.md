@@ -79,8 +79,8 @@ Quick Tips:
 -	
 #### <a name="goodjob"></a>Do a Good Job!
 Have you ever heard the expression “dress for the job you want, not the job you have?”  
-
-
+That's what we're going for here.  Even if you work for a big company where you are pretty confident that your current manager doesn't have any contact with the hiring manager of the team you'd like to move to, rest assured - your future manager *will* find out about your work ethic, ability to contribute to a team, and overall fit from members of your current team.
+Make sure you're doing a great job in your role *today*!
 
 Once I made the decision that software engineering would be my next career path, I needed to become strategic about the way that I approached getting the attention of the hiring managers on our engineering team.  
 
