@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Object Literally`,
     author: `Shaundai Person`,
-    description: `Talking about the things that matter to me.`,
+    description: `Software engineer talking about the things that matter to me`,
     siteUrl: `https://blog.shaundai.com/`,
     social: {
       twitter: `shaundai`,

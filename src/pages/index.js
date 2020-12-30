@@ -17,8 +17,8 @@ class IndexPage extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-         title="Blog"
-         keywords={[`shaundai`, `shaundai person`, `shaundai elaine`, `shaundai blog`, `shaundai person blog`, `shaundai react`, `shaundai javascript`]}
+         title="Shaundai Person Software Engineering Blog"
+         keywords={[`shaundai`, `shaundai person`, `shaundai elaine`, `shaundai blog`, `shaundai person blog`, `shaundai react`, `shaundai javascript`, `black software engineers`]}
        />
         <Bio />
         <div style={{ margin: "20px 0 40px" }}>
