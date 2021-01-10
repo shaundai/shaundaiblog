@@ -1,6 +1,6 @@
 ---
 title: Using LocalHost for Mobile Development
-date: "2021-09-01T23:46:37.121Z"
+date: "2021-01-09T23:46:37.121Z"
 description: Testing your web app on mobile before deploying using localhost on your phone and tablet
 tags: ["#webdev", "#tutorial", "#mobile", "#deploying"]
 ---
