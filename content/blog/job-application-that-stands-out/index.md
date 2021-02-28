@@ -51,7 +51,7 @@ Learned this from my marketing friends – it’s important to keep the length <
 When using the videos in an email, stick the video in the body of the email - not as an attachment or link.  We want to put the fewest number of clicks between the recipient and the actual video in order to make it easy for him/her to access.  Links and attachments are also too easy to overlook; including the video in the body of the email prevents the hiring manager from accidentally missing your video entirely.   If you <em>have</em> to use a link, make sure to draw attention to it using bold, capitalized text that clearly draws attention to the fact that it’s a <b>SHORT PRODUCT DEMO VIDEO</b>.
  
 
-</em><b>“…but I’m filling out applications on the company website.  Where should I put my videos?”</b></em>
+<em><b>“…but I’m filling out applications on the company website.  Where should I put my videos?”</b></em>
 
 I get it - for most of the jobs you’ll be applying for you’ll be applying using a form on a website.  There may not necessarily be somewhere to stick the videos (like in an email).  Some ideas:
 
