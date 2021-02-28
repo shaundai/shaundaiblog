@@ -1,8 +1,8 @@
 ---
-title: What I Learned by Asking Developers One Question
-date: "2020-01-06T23:46:37.121Z"
-description: If you're trying to get into tech, this is for you.
-tags: ["#career", "#codenewbie", "#hiring"]
+title: 5 Things I Learned by Asking Developers One Question
+date: "2020-12-07T23:46:37.121Z"
+description: If you're trying to break into tech, this is especially for you.
+tags: ["#career", "#codenewbie", "#hiring", "#career"]
 ---
 
 Breaking into engineering is no easy task.
