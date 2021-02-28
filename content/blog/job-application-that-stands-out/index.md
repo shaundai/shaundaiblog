@@ -32,9 +32,9 @@ Using video in prospecting can increase reply rates by 25%.  Video helps to:
 
 #### <b>Types</b>
  
-Two types of videos work best when it comes to job applications:
+Two types of job application videos:
  
-- <em><b>Project Demos:</b></em> short overview video of a project in your portfolio.  You may or may not be on camera.  In this video, you’ll walk through your completed project (not the code).
+- <em><b>Project Demos:</b></em> short (2-3 min) overview video of a project in your portfolio.  You may or may not be on camera.  In this video, you’ll walk through your completed project (not the code).
  
 - <em><b>Introduction Videos:</b></em> short video introducing yourself, talking about your professional accomplishments and personal interests, and explaining why you are a fit for the role (think cover letter, but in video form).  You’ll be on camera for this one.
 
