@@ -135,13 +135,14 @@ Let’s say that `<Mom />` has a different handler function called `handleTemper
 Now, `<Toddler />` has the ability to ~~manipulate~~ update and manage `<Mom />`’s state on its own!  `<Toddler />` uses this function to change `<Mom />`’s state to 'annoyed' any time the button on lines 4-6 is clicked.
 
 <b>Toddler Component</b>:
+
 ```react
 1 const Toddler = (handleTemperTantrum) => {
 2 
 3  return (
 4    <button onClick={handleTemperTantrum()}>
 5      
-6    </ button>
+6    </button>
 7   )
 8 }
 ```
@@ -149,6 +150,7 @@ Now, `<Toddler />` has the ability to ~~manipulate~~ update and manage `<Mom />`
 This button does not actually display anything except an empty button, though.  Since the actual `state` of `emotion` still lives on `<Mom />`, we'll need to pass `emotion` down to her child.  In fact, since parents can pass state down to any children as `props`, we can pass `annoyed` to both `<Toddler />` <em>and</em> `<Teen />` as props for them to use.
 
 <b>Mom Component:</b>
+
 ```react
 1 const Mom = () => {
 2 
@@ -169,6 +171,7 @@ This button does not actually display anything except an empty button, though.  
 
 
 <b>Toddler Component:</b>
+
 ```react
 1 const Toddler = (handleTemperTantrum, emotion) => {
 2 
