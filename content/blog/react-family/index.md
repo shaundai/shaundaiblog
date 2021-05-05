@@ -7,9 +7,6 @@ tags: ["#react", "#codenewbie", "#javascript"]
 
 <em>This article is part of a React Family series inspired by my conversation with Jason Lengstorf on [this episode of Learn with Jason](https://www.learnwithjason.dev/functional-react-with-styled-components).</em>
 
-<em>Cover photo by <a href="https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tengyart</a> on <a href="https://unsplash.com/s/photos/emotion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em>
-
-
 In this example, we have three React components.  One, `<Mom />` is, of course, the parent component.  The others are children of `<Mom />`:
 * `<Toddler />` and
 * `<Teen />`.
