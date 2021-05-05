@@ -5,40 +5,32 @@ description: The analogies that will help you finally understand React state
 tags: ["#react", "#codenewbie", "#javascript"]
 ---
 
-TypeScript is just a superset of JavaScript, meaning it <em>is</em> JavaScript, with enhanced functionality.  When you run an application built in TypeScript, the code is actually just compiled into the same JavaScript you know and love.  (Btw - for this reason, you can use TypeScript anywhere you’d normally use JavaScript – on the frontend <b>and</b> on the backend!)
+TypeScript is just a superset of JavaScript, meaning it <em>is</em> still JavaScript - just with enhanced functionality.  When you run an application built in TypeScript, the code is compiled into the same JavaScript you know and love before being run in your browser.  (Btw - for this reason, you can use TypeScript anywhere you’d normally use JavaScript – on the frontend <b>and</b> on the backend!)
 
 The only issue with using it is that TypeScript - to someone who has never used a statically-typed language - is annoying af.  When you’re used to the carefree life of declaring variables without having to worry about their future, what they’ll eventually become, and the functions they’ll have to interact with, adding types to your code just seems like a bunch of extra work for little reward.
 
 ## So, Why Not Just Use JavaScript?
 
-The short answer is: TypeScript makes code **less error prone** and **more readable** than JavaScript.
-
-The difference between the two is **when type checking happens**.
-
-**Dynamically-typed languages** like JavaScript check types during <em>runtime</em>.  This means you’ll find out about your mistakes when you run your program.  This might be locally as you’re testing, during your unit tests or smoke tests, or even after you’ve shipped it to your customers.
-
-**Statically-typed languages** like TypeScript instead check types during <em>compile time</em>.  This means that you’ll find the mistakes that could potentially break your code <em>as you make them</em>.  Not only does this prevent you from shipping a buggy app, it also closes the gap between when you **make** the mistake and when you **find out** you’ve made a mistake, getting you to the fix faster.
-
-
-
-
-
-Typescript was designed with the following types of projects in mind:
+The short answer is: TypeScript makes code **less error prone** and **more readable** than JavaScript.  It was designed especially for projects that meet the following criteria:
 
     * Large or complex (enterprise-level applications)
     * Maintained by multiple people
     * Will evolve or be updated over time
 
-Something something instantaneous feedback
-TypeScript is meant to close certain gaps JavaScript leaves in.
+#### Less Error Prone
+The big difference between TypeScript and JavaScript is **when typechecking happens**.  First, what is typechecking?  Typecheckers are type police built into JavaScript to enforce the type laws (for example, it’s against the rules to multiply a string with an array).  Typechecking is the process where typecheckers verify that your code follows all of the rules of the language.
+
+In **dynamically-typed languages** like JavaScript, typechecking occurs during <em>runtime</em>.  This means you’ll find out about your mistakes when you run your program.  This may happen locally as you’re testing, during your unit tests or smoke tests, or even in production after you’ve shipped it to your customers.
+
+By contrast, **statically-typed languages** like TypeScript check types during <em>compile time</em> - right in your text editor!  This means that you’ll instantaneously see mistakes that could potentially break your code <em>as you make them</em>.  Not only does this prevent you from shipping a buggy app, it also closes the gap between when you **make** the mistake and when you **find out** you’ve made a mistake, getting you to a fix, faster.
+
+#### More Readable
+With explicitly typed code, others can look at your code and easily understand what it’s meant to do.  If you’re working with a huge code base with other engineers who will be modifying and adding to your code daily, this added level of readability is crucial for preventing new type errors.
+
+Once you’ve got a solid understanding of how to use TypeScript, you’ll also notice that the way you think about code will start to change.  Because static typing forces you to think about types even before you’ve declared any values, you will get great at mapping out the relationships between your components and their functions in your head before you even declare any variables!  You will be able to identify and account for new edge cases before deploying to production.  Overall, you can expect that your code will be sturdier and much easier to maintain.
 
 
-
-
-
-This will help to eliminate headaches before they happen.  
-
-Now for some examples.  Picture the following scenario in JavaScript:
+## Examples: JavaScript vs TypeScript
 
 ### Example 1: 
 #### Adding two numbers to calculate padding on a button.
