@@ -7,7 +7,7 @@ tags: ["#react", "#codenewbie", "#javascript", "#typescript"]
 
 TypeScript is just a superset of JavaScript, meaning it's <em>just</em> JavaScript - but with enhanced functionality.  When you run an application built in TypeScript, the code is compiled into the same JavaScript you know and love before being run in your browser.  <em>(btw - for this reason, you can use TypeScript anywhere you’d normally use JavaScript – on the frontend **and** on the backend!)</em>
 
-The only issue with is that TypeScript - to someone who has never used a statically-typed language - is annoying af.  When you’re used to the carefree life of declaring variables without having to worry about their future, what they’ll eventually become, and the functions they’ll have to interact with, adding types to your code just seems like a bunch of extra work for little reward.
+The only issue is that TypeScript - to someone who has never used a statically-typed language - is annoying af.  When you’re used to the carefree life of declaring variables without having to worry about their future, what they’ll eventually become, and the functions they’ll have to interact with, adding types to your code just seems like a bunch of extra work for little reward.
 
 ## So, Why Not Just Use JavaScript?
 
