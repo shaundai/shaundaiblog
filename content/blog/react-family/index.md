@@ -73,7 +73,7 @@ Just like your emotional state, React `state` can be changed and maintained by a
 10    <div>
 11      <Toddler />
 12      <Teen />
-13       <button onClick={handleMeditation()}>
+13       <button onClick={handleMeditation}>
 14         {emotion}  //changes to 'calm' once button is clicked
 15       </button>
 16    </div>
@@ -98,7 +98,7 @@ From here, `<Mom />` can pass her <em>emotional state</em> on to her children :s
 //initial props value of 'happy' changes to 'calm' in Toddler and Teen once button is clicked
 11      <Toddler emotion={emotion} />
 12      <Teen emotion={emotion} />
-13       <button onClick={handleMeditation()}>
+13       <button onClick={handleMeditation}>
 14         {emotion}  //changes to 'calm' once button is clicked
 15       </button>
 16    </div>
@@ -134,10 +134,10 @@ Now, `<Toddler />` has the ability to ~~manipulate~~ update and manage `<Mom />`
 <b>Toddler Component</b>:
 
 ```react
-1 const Toddler = (handleTemperTantrum) => {
+1 const Toddler = ({handleTemperTantrum}) => {
 2 
 3  return (
-4    <button onClick={handleTemperTantrum()}>
+4    <button onClick={handleTemperTantrum}>
 5      
 6    </button>
 7   )
@@ -170,12 +170,12 @@ This button does not actually display anything except an empty button, though.  
 <b>Toddler Component:</b>
 
 ```react
-1 const Toddler = (handleTemperTantrum, emotion) => {
+1 const Toddler = ({handleTemperTantrum, emotion}) => {
 2 
 3  return (
-4    <button onClick={handleTemperTantrum()}>
+4    <button onClick={handleTemperTantrum}>
 5      {emotion} //now this will say 'calm', or will change to 'annoyed' once this button is clicked
-6    </ button>
+6    </button>
 7   )
 8 }
 ```
