@@ -1,7 +1,7 @@
 ---
 path: dynamic-styles-with-styled-components-and-react
 date: 2021-06-18T05:38:47.418Z
-title: Making Styles Repeatable: Dynamic Styling in React using Styled Components
+title: Making Styles Repeatable - Dynamic Styling in React using Styled Components
 description: How to make your styles dynamic and DRY in React
 tags: ["#react", "#styledcomponents", "#styling", "#tutorial"]
 ---
